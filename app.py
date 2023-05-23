@@ -21,8 +21,8 @@ def gymexplorer():
     print("Este es el equipo Gym Explorer")
 
 def quedijo():
-    print("Este es el equipo Que Dijo- Nicolas")
-
+    print("Este es el equipo Que Dijo")
+    print("Johann")
 def signtalk():
     print("Este es el equipo PythonLog²@2320")
 
